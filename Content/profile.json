@@ -1,29 +1,29 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
+  "Name": "Owen Swartout",
+  "Currently": "Electrical Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Owen Swartout. Dedicated Electrical Engineering student and NCAA men’s soccer athlete at Seattle Pacific University seeking internship opportunity. I'm excited to use my technical skills and teamwork experience to contribute to innovative projects. I'm ready to learn, collaborate, and gain hands-on experience in a dynamic team setting while expanding my industry knowledge."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "EMail": "swartouto@spu.edu",
+  "Phone": "(503)-878-0510",
+  "Portfolio": "http://owen-swartout.gethub.io/",
+  "LinkedIn": "https://www.linkedin.com/in/owen-swartout-7a6844299/",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Through hard work and dedication, I was been able to graduate from high school with a 3.9 unweighted GPA, recieve a college soccer scholarship, and had summer internship experience at an engineering company.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Major": "Electrical Engineering",
+  "Graduation": "June 2027",
+  "EducationText": "I graduated from Sherwood High School in Sherwood Oregon with a 3.9 unweighted GPA. I am currently a Sophmore at Seattle Pacific University with a 3.5 GPA. I plan to get my MBA later on in my carrer.",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Role": "Student Athlete",
+  "EmploymentText": "I have experience as a test technician for an engineering lab (summer 2024 and summer 2025)",
+  "Skills": ["C++", "MATLAB", "Multisim", "Circuit Building"," SolidWorks", "Microsoft Office"],
+  "SkillsText": "I have execptional communication skills, thrive in team enviornments, have great problem-solving skills, have a hard working personality ",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
